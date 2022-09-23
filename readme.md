@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-Both [Sheeza](https://github.com/sheezaaziz) and [Daman](https://github.com/Damans227) are Software Developers who often find it difficult to decide on a new technology stack when starting a new project. Like many other hackers out there, they also wonder: 
+Both [Daman](https://github.com/Damans227) and [Sheeza](https://github.com/sheezaaziz) are Software Developers who often find it difficult to decide on a new technology stack when starting a new project. Like many other hackers out there, they also wonder: 
 
 - What language has gained the most popularity over the years?
 - What is the most commonly used programming language?
@@ -41,8 +41,14 @@ Our personal learnings are the following:
   - using jupyterLab Notebook and its git extension. 
   - using Github project board. 
   
+- Sheeza:
+  - JupyterLab, and JupyterLab-Git 
+  - Python Libraries
+  - How to ask real world applicable questions given a raw data set
+  - How to debug (a lot)!
+
 ## What's next for Stack Explorer
-- Do a Machine Learning model that can answer questions such as **what language will become the most popular in 2025** or **could automatically classify stackoverflow questions using Natural Language Processing**. 
+- Do a Machine Learning model that can answer questions such as **based on current popularity and growth rate, what language will become the most popular in 2025?** or, **could automatically classify stackoverflow questions using Natural Language Processing**. 
 
 ## Built With
 <p align="center">
