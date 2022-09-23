@@ -53,9 +53,26 @@ Our personal learnings are the following:
 
 ## How to run the app locally
 
-The things you must have installed are Python >= 3.9, and npm > 12.0:
+Installation Requirements:
+-  Python >= 3.8
+- npm >= 12.0
+- Pip3 >= 20
+- Jupyter Lab >= 3.4.7
 
-To run our Jupyter Notebook, you can follow the steps given here:
+To run our Jupyter Lab Notebook, follow these steps:
 
-- https://docs.jupyter.org/en/latest/running.html
+ 1. [Install Python 3](https://www.python.org/downloads/)
+ 2. [Create a virtual environment](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments) 
+ 3. [Activate the virtual environment](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments)
+ 4. Install Jupyter Lab:
+ ```pip install jupyterlab```
+ 5. [Install Jupyter Lab-Git](https://github.com/jupyterlab/jupyterlab-git)
+ 6. [Generate a GitHub Personal Access Token](https://github.com/jupyterlab/jupyterlab-github/blob/master/README.md#2-getting-your-credentials-from-github)
+ 7. Run Jupyter Lab:
+  ```jupyter lab ```
+ 8. Open the hosting url on your browser. The host link can be found on your terminal/command line after completing step 7.
+ 9. Download all import dependencies using:
+  ```pip install <package-name>```
+ 10. [Download the "Train.csv" file](https://www.kaggle.com/competitions/facebook-recruiting-iii-keyword-extraction/data?select=Train.zip) to your local project directory. Note this single file is too large (2.35GB) to store on a GitHub repo.
+ 12. You should see a Jupyter Lab Notebook on the hosting link, as well as the git extension on the left hand panel of the web application. You can now use the git extension to commit changes on our notebook using its User-Interface, as opposed to the terminal/command line.
 
