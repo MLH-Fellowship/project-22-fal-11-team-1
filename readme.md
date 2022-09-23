@@ -42,7 +42,7 @@ Our personal learnings are the following:
   - using Github project board. 
   
 ## What's next for Stack Explorer
-- Do a Machine Learning modelthat can answer questions such as “what language will become the most popular in 2025" or could automatically classify stackoverflow questions using Natural Language Processing. 
+- Do a Machine Learning model that can answer questions such as **what language will become the most popular in 2025** or **could automatically classify stackoverflow questions using Natural Language Processing**. 
 
 ## Built With
 <p align="center">
